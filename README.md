@@ -102,7 +102,30 @@ This repository documents hands-on hardware and troubleshooting work completed a
 
 **Result:** Full backup completed successfully. Data preserved through OS update with zero data loss.
 
-**Skills demonstrated:** Mobile device management, backup procedures, iOS/macOS integration, data protection best practices
+**Skills demonstrated:** Mobile device management, backup procedures, iOS/macOS integration, data protection best 
+practices
 
+---
 
+## 6. Virtual Machine Lab — Ubuntu Linux on VirtualBox
+
+**Objective:** Set up a virtualisation environment to simulate real IT infrastructure.
+
+**Setup:**
+- Installed Oracle VirtualBox on my macOS 
+- Downloaded Ubuntu 26.04 LTS ARM64 ISO
+- Created VM with 4GB RAM, 2 CPUs, 25GB virtual disk
+- Completed full Ubuntu installation via unattended setup
+
+**Verified:**
+- OS: Ubuntu 26.04 LTS (Linux kernel 7.0, aarch64)
+- RAM: 3.3GB available
+- CPU: 2 cores, Apple Silicon (ARM64)
+- Connected to internet and fully operational
+
+**Skills demonstrated:** Virtualisation, VM creation, Linux installation, hardware allocation, VirtualBox
+
+**Screenshots:**
+- ubuntu-vm-running.png)
+- ubuntu-terminal-commands.png)
 *These projects support CompTIA A+ Core 1 (220-1101) and Core 2 (220-1102) objectives including hardware installation, troubleshooting methodology, networking basics, and mobile device management.*
