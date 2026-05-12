@@ -126,6 +126,5 @@ practices
 **Skills demonstrated:** Virtualisation, VM creation, Linux installation, hardware allocation, VirtualBox
 
 **Screenshots:**
-- ubuntu-vm-running.png)
-- ubuntu-terminal-commands.png)
-*These projects support CompTIA A+ Core 1 (220-1101) and Core 2 (220-1102) objectives including hardware installation, troubleshooting methodology, networking basics, and mobile device management.*
+- ![Ubuntu VM Running](ubuntu-vm-running.png)
+- ![Terminal Commands](terminal-commands.png)
